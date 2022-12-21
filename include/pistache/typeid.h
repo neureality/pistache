@@ -12,7 +12,7 @@
 #pragma once
 
 #include <functional>
-
+#include <cstddef>
 namespace Pistache {
 
 class TypeId {
